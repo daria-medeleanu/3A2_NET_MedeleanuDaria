@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\comandhandlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\comandhandlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\commands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\queryhandlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\admin\\downloads\\bookmanagement\\bookmanagement\\application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:45:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:45:10.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:46:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:06:44.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:00:27.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:43:28.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:45:42.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:43:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetBookByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:46:08.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:44:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetBookByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:16:19.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllBooksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BookManagement\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:59:01.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
